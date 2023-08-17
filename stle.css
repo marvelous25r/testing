@@ -1,0 +1,13 @@
+.firstdiv{
+    border: 2px solid white;
+    width: 200px;
+    height: 270px;
+    background-color: white;
+
+
+}
+.firstdiv img{
+    height: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
